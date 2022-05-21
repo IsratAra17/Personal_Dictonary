@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Personal_Dictonary</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">S.M.Israt Ara</string>
+    <string name="nav_header_subtitle">smisratara@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_saved_word">Your_Words</string>
+
+    <string name="menu_new_word">Insert_Word</string>
+    <string name="menu_search_word">Search_Words</string>
+    <string name="dictionary">Dictionary</string>
+</resources>
